@@ -1,6 +1,6 @@
-![calculator](https://github.com/user-attachments/assets/3fd25530-b18e-4195-9ea9-1e830441794f)
-
 <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="40" height="40" /> React Calculator <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="40" height="40" /></h1>
+
+![calculator](https://github.com/user-attachments/assets/3fd25530-b18e-4195-9ea9-1e830441794f)
 
 <p align="center" >
   <a href="https://skillicons.dev">
